@@ -1,3 +1,3 @@
-node v-foreman.localdomain {
+node ppuppet.local {
   include role::master
 }
