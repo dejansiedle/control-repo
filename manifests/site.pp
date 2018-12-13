@@ -1,3 +1,3 @@
-node ppuppet.local {
+node v-foreman {
   include role::master
 }
